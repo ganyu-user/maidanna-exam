@@ -1,0 +1,14 @@
+{
+  "name": "task-book-spa",
+  "version": "1.0.0",
+  "description": "网上书店管理系统 - 前端SPA应用",
+  "main": "index.html",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.0",
+    "redux": "^4.2.1"
+  }
+}
